@@ -1,0 +1,1 @@
+../../../BBCamera/BBCamera/BBCamera/Views/BBCameraSlideView.h

@@ -1,0 +1,27 @@
+{
+  "name": "BBCamera",
+  "version": "0.0.1",
+  "summary": "iOS相机框架",
+  "homepage": "https://github.com/CupinnCoder/BBCamera",
+  "license": "Copyright (C) 2015 Gary, Inc.  All rights reserved.",
+  "authors": {
+    "zhuguanyu": "zhuguanyu@cupinn.cn"
+  },
+  "social_media_url": "http://www.cupinn.com",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/CupinnCoder/BBCamera.git"
+  },
+  "source_files": "BBCamera/BBCamera/**/*.{h,m,c}",
+  "requires_arc": true,
+  "dependencies": {
+    "pop": [
+
+    ],
+    "Masonry": [
+
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+PODS:
+  - AsyncDisplayKit (1.9.7.2):
+    - AsyncDisplayKit/PINRemoteImage (= 1.9.7.2)
+  - AsyncDisplayKit/ASDealloc2MainObject (1.9.7.2)
+  - AsyncDisplayKit/PINRemoteImage (1.9.7.2):
+    - AsyncDisplayKit/ASDealloc2MainObject
+    - PINRemoteImage/iOS (>= 2.1.2)
+  - BBCamera (0.0.1):
+    - Masonry
+    - pop
+  - DACircularProgress (2.3.1)
+  - FLAnimatedImage (1.0.12)
+  - Masonry (1.0.0)
+  - PINCache (2.2.2)
+  - PINRemoteImage (2.1.4):
+    - PINRemoteImage/FLAnimatedImage (= 2.1.4)
+  - PINRemoteImage/Core (2.1.4):
+    - PINCache (>= 2.1)
+  - PINRemoteImage/FLAnimatedImage (2.1.4):
+    - FLAnimatedImage (>= 1.0)
+    - PINRemoteImage/Core
+  - PINRemoteImage/iOS (2.1.4):
+    - PINRemoteImage/Core
+  - pop (1.0.9)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - SVProgressHUD (2.0.3)
+
+DEPENDENCIES:
+  - AsyncDisplayKit
+  - BBCamera (from `https://github.com/CupinnCoder/BBCamera.git`)
+  - DACircularProgress
+  - PINRemoteImage
+  - pop
+  - SDWebImage
+  - SVProgressHUD
+
+EXTERNAL SOURCES:
+  BBCamera:
+    :git: https://github.com/CupinnCoder/BBCamera.git
+
+CHECKOUT OPTIONS:
+  BBCamera:
+    :commit: b5d73529e78c9f7e1215a15cf1a3e69d57ec9f48
+    :git: https://github.com/CupinnCoder/BBCamera.git
+
+SPEC CHECKSUMS:
+  AsyncDisplayKit: 1701c47761a3e274b82cc0c77e6294cfa69612f6
+  BBCamera: 39f20897bcbb61867458244ef927899e40d74ddc
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
+  PINCache: 078426d356ab95ef875e9e62e5c35a2ea3333c28
+  PINRemoteImage: 4ac4011c5caefd6befd99758e09becede05d3226
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+
+COCOAPODS: 0.39.0
