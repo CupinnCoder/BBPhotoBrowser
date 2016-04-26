@@ -2,7 +2,7 @@
 //  BBZoomingScrollView.m
 //  BBPhotoBrowser
 //
-//  Created by Melvin on 9/1/15.
+//  Created by Gary on 9/1/15.
 //  Copyright © 2015 TimeFace. All rights reserved.
 //
 

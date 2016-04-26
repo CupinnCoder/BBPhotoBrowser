@@ -2,7 +2,7 @@
 //  UIImage+BBPhotoBrowser.m
 //  BBPhotoBrowser
 //
-//  Created by Melvin on 11/13/15.
+//  Created by Gary on 11/13/15.
 //  Copyright © 2015 TimeFace. All rights reserved.
 //
 

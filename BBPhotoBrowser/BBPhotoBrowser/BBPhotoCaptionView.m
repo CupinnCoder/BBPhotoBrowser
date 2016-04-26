@@ -2,8 +2,8 @@
 //  BBPhotoCaptionView.m
 //  BBPhotoBrowser
 //
-//  Created by Melvin on 11/18/15.
-//  Copyright © 2015 TimeFace. All rights reserved.
+//  Created by Gary on 11/18/15.
+//  Copyright © 2015 Gary. All rights reserved.
 //
 
 #import "BBPhotoCaptionView.h"
@@ -81,7 +81,7 @@ const static CGFloat kLeftRightThreshold = 16;
     
     
     CGFloat contentTop = kTopBottomThreshold/2;
-    _titleLabel.text = @"Melvin Young";
+    _titleLabel.text = @"Gary Young";
     
     if (_titleLabel.text.length) {
         contentTop = kTopBottomThreshold*1.5 + CGRectGetHeight(_titleLabel.frame);

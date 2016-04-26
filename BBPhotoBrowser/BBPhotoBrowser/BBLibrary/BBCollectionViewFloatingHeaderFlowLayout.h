@@ -2,7 +2,7 @@
 //  BBCollectionViewFloatingHeaderFlowLayout.h
 //  BBPhotoBrowser
 //
-//  Created by Melvin on 2/16/16.
+//  Created by Gary on 2/16/16.
 //  Copyright © 2016 TimeFace. All rights reserved.
 //
 

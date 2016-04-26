@@ -2,8 +2,8 @@
 //  UIImage+BBPhotoBrowser.h
 //  BBPhotoBrowser
 //
-//  Created by Melvin on 11/13/15.
-//  Copyright © 2015 TimeFace. All rights reserved.
+//  Created by Gary on 11/13/15.
+//  Copyright © 2015 Gary. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

@@ -2,8 +2,8 @@
 //  BBZoomingScrollView.h
 //  BBPhotoBrowser
 //
-//  Created by Melvin on 9/1/15.
-//  Copyright © 2015 TimeFace. All rights reserved.
+//  Created by Gary on 9/1/15.
+//  Copyright © 2015 Gary. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

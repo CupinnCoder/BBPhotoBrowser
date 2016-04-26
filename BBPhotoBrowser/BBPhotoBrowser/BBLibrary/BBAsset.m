@@ -2,8 +2,8 @@
 //  BBAsset.m
 //  BBPhotoBrowser
 //
-//  Created by Melvin on 12/17/15.
-//  Copyright © 2015 TimeFace. All rights reserved.
+//  Created by Gary on 12/17/15.
+//  Copyright © 2015 Gary. All rights reserved.
 //
 
 #import "BBAsset.h"

@@ -2,8 +2,8 @@
 //  ALAssetRepresentation+BBMD5.m
 //  BBPhotoBrowser
 //
-//  Created by Melvin on 1/4/16.
-//  Copyright © 2016 TimeFace. All rights reserved.
+//  Created by Gary on 1/4/16.
+//  Copyright © 2016 Gary. All rights reserved.
 //
 
 #import "ALAssetRepresentation+BBMD5.h"

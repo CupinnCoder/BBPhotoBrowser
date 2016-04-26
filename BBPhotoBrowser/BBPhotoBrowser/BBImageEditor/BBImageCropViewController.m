@@ -1,9 +1,9 @@
 //
 //  BBImageCropViewController.m
-//  TimeFaceV2
+//  GaryV2
 //
-//  Created by Melvin on 12/23/14.
-//  Copyright (c) 2014 TimeFace. All rights reserved.
+//  Created by Gary on 12/23/14.
+//  Copyright (c) 2014 Gary. All rights reserved.
 //
 
 #import "BBImageCropViewController.h"

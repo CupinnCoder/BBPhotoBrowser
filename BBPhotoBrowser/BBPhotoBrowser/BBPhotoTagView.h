@@ -1,9 +1,9 @@
 //
 //  BBPhotoTagView.h
-//  TimeFaceV2
+//  GaryV2
 //
-//  Created by Melvin on 3/25/15.
-//  Copyright (c) 2015 TimeFace. All rights reserved.
+//  Created by Gary on 3/25/15.
+//  Copyright (c) 2015 Gary. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

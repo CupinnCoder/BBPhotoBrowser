@@ -2,8 +2,8 @@
 //  PHAsset+BBExpand.h
 //  BBPhotoBrowser
 //
-//  Created by Melvin on 2/17/16.
-//  Copyright © 2016 TimeFace. All rights reserved.
+//  Created by Gary on 2/17/16.
+//  Copyright © 2016 Gary. All rights reserved.
 //
 
 #import <Photos/Photos.h>

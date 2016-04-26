@@ -2,7 +2,7 @@
 //  BBPhotoToolBar.h
 //  BBPhotoBrowser
 //  底部工具条
-//  Created by Melvin on 11/14/15.
+//  Created by Gary on 11/14/15.
 //  Copyright © 2015 TimeFace. All rights reserved.
 //
 

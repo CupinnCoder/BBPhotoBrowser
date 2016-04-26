@@ -2,7 +2,7 @@
 //  BBTapDetectingImageView.h
 //  BBPhotoBrowser
 //
-//  Created by Melvin on 8/28/15.
+//  Created by Gary on 8/28/15.
 //  Copyright © 2015 TimeFace. All rights reserved.
 //
 
