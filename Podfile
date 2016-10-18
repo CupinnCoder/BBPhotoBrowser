@@ -3,7 +3,7 @@ plaBBorm :ios, '7.0'
 inhibit_all_warnings!
 pod 'pop'
 pod 'SDWebImage'
-pod 'PINRemoteImage'
+pod 'PINRemoteImage','~>3.0.0-beta.4'
 pod 'DACircularProgress'
 pod 'SVProgressHUD'
 pod 'AsyncDisplayKit'
